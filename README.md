@@ -1,12 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Daniela Conceição!
 
-<!--
-*danielaconceicao/danielaconceicao* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. -->
+<img src="octocat-1746181439186.png" alt="myImage" width="350" height="350"> Sono una appassionata di tecnologia e con una forte attenzione per il mondo dello sviluppo web, attualmente sto approfondendo le mie competenze in JavaScript, React e TypeScript attraverso lo studio e la    
+realizzazione di progetti personali. Sono una persona proattiva e desiderosa di imparare, sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente. Mi appassiona l'idea di 
+trasformare concetti creativi in realtà digitali e sono convinta del potere di un'interfaccia utente ben realizzata per migliorare l'esperienza complessiva.
+   
 
-![myImage](C:\Users\danie_mvxarhy\Downloads\octocat-1746181439186.png)
-
-👩 - Appassionata di tecnologia e con una forte attenzione per il mondo dello sviluppo web, attualmente sto approfondendo le mie competenze in JavaScript, React e TypeScript attraverso lo studio e la realizzazione di progetti personali. Sono una persona proattiva e desiderosa di imparare, sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente. Mi appassiona l'idea di trasformare concetti creativi in realtà digitali e sono convinta del potere di un'interfaccia utente ben realizzata per migliorare l'esperienza complessiva.
 
  ![Coding Boy](https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif)
 
@@ -14,7 +13,9 @@
 
 📲 - Attualmente, sono impegnato nello sviluppo di un progetto personale che rappresenta una sfida stimolante e una preziosa opportunità per mettere in pratica e consolidare le mie conoscenze.
 
+
 📭 - Per entrare in contatto con me, potete trovarmi su:
+
 <div>
 <a href="https://instagram.com/_danielaconceicao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@daniela.3597@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,11 +25,11 @@
 Le mie competenze principali includono:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" style="margin-right: 2.5rem;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="32" height="32"  style="margin-right: 2.5rem;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" style="margin-right: 2.5rem;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="32" height="32" style="margin-right: 2.5rem;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="32" style="margin-right: 5rem;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="32"  style="margin-right: 2.5rem;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="32" style="margin-right: 2.5rem;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="32" style="margin-right: 2.5rem;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="32" />
 </div>
 
-![Snake animation](	https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?username=danielaconceicao)
