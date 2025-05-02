@@ -6,7 +6,7 @@
 
 👩 - Appassionata di tecnologia e con una forte attenzione per il mondo dello sviluppo web, attualmente sto approfondendo le mie competenze in JavaScript, React e TypeScript attraverso lo studio e la realizzazione di progetti personali. Sono una persona proattiva e desiderosa di imparare, sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente. Mi appassiona l'idea di trasformare concetti creativi in realtà digitali e sono convinta del potere di un'interfaccia utente ben realizzata per migliorare l'esperienza complessiva.
 
-https://tenor.com/it/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811
+<div class="tenor-gif-embed" data-postid="13476862946232937811" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811">Coding Boy Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 🌱 - Il mio percorso di apprendimento è costantemente stimolato dalla curiosità di esplorare nuove frontiere, e l'animazione con CSS è una delle aree che più mi incuriosisce in questo momento.
