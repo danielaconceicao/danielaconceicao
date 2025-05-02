@@ -4,9 +4,12 @@
 <!--
 *danielaconceicao/danielaconceicao* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. -->
 
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  
 👩 - Appassionata di tecnologia e con una forte attenzione per il mondo dello sviluppo web, attualmente sto approfondendo le mie competenze in JavaScript, React e TypeScript attraverso lo studio e la realizzazione di progetti personali. Sono una persona proattiva e desiderosa di imparare, sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente. Mi appassiona l'idea di trasformare concetti creativi in realtà digitali e sono convinta del potere di un'interfaccia utente ben realizzata per migliorare l'esperienza complessiva.
 
 ![Coding Boy](https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif)
+</div>
 
 
 🌱 - Il mio percorso di apprendimento è costantemente stimolato dalla curiosità di esplorare nuove frontiere, e l'animazione con CSS è una delle aree che più mi incuriosisce in questo momento.
@@ -23,11 +26,11 @@
 Le mie competenze principali includono:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="32" height="32"  style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="32" height="32" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" style="margin-right: 2.5rem;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="32" height="32"  style="margin-right: 2.5rem;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" style="margin-right: 2.5rem;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="32" height="32" style="margin-right: 2.5rem;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" />
 </div>
 
 ![Snake animation](https://github.com/danielaconceicao/danielaconceicao/blob/output/github-contribution-grid-snake.svg)
