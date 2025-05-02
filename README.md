@@ -4,16 +4,10 @@
 <!--
 *danielaconceicao/danielaconceicao* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. -->
 
-<table>
-  <tr>
-    <td valign="top">
-      👩 - Appassionata di tecnologia e con una forte attenzione per il mondo dello sviluppo web, attualmente sto approfondendo le mie competenze in JavaScript, React e TypeScript attraverso lo studio e la realizzazione di progetti personali. Sono una persona proattiva e desiderosa di imparare, sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente. Mi appassiona l'idea di trasformare concetti creativi in realtà digitali e sono convinta del potere di un'interfaccia utente ben realizzata per migliorare l'esperienza complessiva.
-    </td>
-    <td>
-      ![Coding Boy](https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif)
-    </td>
-  </tr>
-</table>
+![myImage](C:\Users\danie_mvxarhy\Downloads\octocat-1746181439186.png)
+
+👩 - Appassionata di tecnologia e con una forte attenzione per il mondo dello sviluppo web, attualmente sto approfondendo le mie competenze in JavaScript, React e TypeScript attraverso lo studio e la realizzazione di progetti personali. Sono una persona proattiva e desiderosa di imparare, sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente. Mi appassiona l'idea di trasformare concetti creativi in realtà digitali e sono convinta del potere di un'interfaccia utente ben realizzata per migliorare l'esperienza complessiva.
+ ![Coding Boy](https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif)
 
 🌱 - Il mio percorso di apprendimento è costantemente stimolato dalla curiosità di esplorare nuove frontiere, e l'animazione con CSS è una delle aree che più mi incuriosisce in questo momento.
 
