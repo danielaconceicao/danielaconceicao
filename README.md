@@ -6,7 +6,8 @@
 
 👩 - Appassionata di tecnologia e con una forte attenzione per il mondo dello sviluppo web, attualmente sto approfondendo le mie competenze in JavaScript, React e TypeScript attraverso lo studio e la realizzazione di progetti personali. Sono una persona proattiva e desiderosa di imparare, sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente. Mi appassiona l'idea di trasformare concetti creativi in realtà digitali e sono convinta del potere di un'interfaccia utente ben realizzata per migliorare l'esperienza complessiva.
 
-<div class="tenor-gif-embed" data-postid="13476862946232937811" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811">Coding Boy Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/it/view/coding-boy-coding-coder-coding-guy-gif-13476862946232937811
+
 
 🌱 - Il mio percorso di apprendimento è costantemente stimolato dalla curiosità di esplorare nuove frontiere, e l'animazione con CSS è una delle aree che più mi incuriosisce in questo momento.
 
@@ -20,12 +21,13 @@
 </div>
 
 Le mie competenze principali includono:
+
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="32" height="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="32" height="32"  style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="32" height="32" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" style="margin-right: 10px;"/>
 </div>
 
 ![Snake animation](https://github.com/danielaconceicao/danielaconceicao/blob/output/github-contribution-grid-snake.svg)
