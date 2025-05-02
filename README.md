@@ -36,7 +36,7 @@ trasformare concetti creativi in realtà digitali e sono convinta del potere di 
 
 <br>
 
-Le mie competenze principali includono:<br>
+🆃🅴🅲🅷 🆂🆃🅰🅲🅺:<br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="32" style="margin-right: 5rem" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="32"  style="margin-right: 2.5rem" />
